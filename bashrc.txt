@@ -1,0 +1,6 @@
+alias todo='py app.py ADD'
+alias rm='py app.py RM " " -i'
+alias undo='py app.py UNDO " "'
+alias tcls='py app.py CLS " "'
+alias done='py app.py DONE " " -c'
+alias tedit='py app.py EDIT'

@@ -1,0 +1,3 @@
+@echo off
+cd /d "R:\KentryLevel\ToDo List Wallpaper"
+start "" "C:\Program Files\Git\bin\bash.exe"
