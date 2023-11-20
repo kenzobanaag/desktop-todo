@@ -14,7 +14,7 @@ FONT_SIZE = PADDING_TOP = 50
 VALID_COLORS = ['white', 'blue', 'red', 'black', 'green']
 
 SCRIPT_DESC = """
-    Welcome to the Wall of TODOs
+    Wall of TODOs
 """
 COMMAND_DESC = """
     <ADD|EDIT|RM|DONE|CLS|UNDO>
